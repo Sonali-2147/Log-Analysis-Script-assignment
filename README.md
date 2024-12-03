@@ -1,4 +1,3 @@
-# Log-Analysis-Script-assignment
 # Log Analysis Script  
 
 ## *Overview*  
