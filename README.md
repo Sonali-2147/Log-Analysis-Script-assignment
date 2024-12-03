@@ -55,7 +55,7 @@ Ensure the log file (e.g., sample.log) is in the same directory as the script or
 ### *Optional: Adjust Threshold for Suspicious Activity*  
 Edit the script to modify the THRESHOLD variable:  
 python
-THRESHOLD = 10
+THRESHOLD = 10 # Change this value to set a custom threshold.
   
 
 ---
@@ -66,6 +66,9 @@ THRESHOLD = 10
 3. *log_analysis_results.csv*: Generated output file with analysis results.  
 
 ---
+
+![Screenshot 2024-12-03 130611](https://github.com/user-attachments/assets/2834596b-0d42-46da-9e9c-8684654c49f7)
+
 
 ## *Contact*  
 For questions or support, please reach out at kadamsonali2147@gmail.com.
